@@ -1,5 +1,4 @@
-export default function Cart(){
-  
+
 // Fetch the JSON file
 fetch('./api/products.json')
 .then(response => {
@@ -123,8 +122,8 @@ fetch('./api/products.json')
 .catch(error => {
 console.error('There was a problem with the fetch operation:', error);
 });
-}
 
-export const CartFunction = Cart();
+
+
 
 
