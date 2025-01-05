@@ -16,6 +16,5 @@ export default defineConfig({
         login: resolve(__dirname, "login.html")
       },
     },
-    assetsInclude: ['./api.json'],
   },
 });

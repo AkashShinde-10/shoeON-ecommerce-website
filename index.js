@@ -52,7 +52,7 @@ setInterval(ToNext, 5000)
 const prodcontent = document.querySelector(".cardContainer");
 const template = document.querySelector(".cardTemplate");
 
-const filePath = './api/products.json';  
+const filePath = '/api/products.json';  
 
 // Fetch the JSON file
 fetch(filePath)

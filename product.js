@@ -1,5 +1,5 @@
 
-const filePath = './api/products.json';  
+const filePath = '/api/products.json';  
 // Fetch the JSON file
 fetch(filePath)
   .then(response => {
