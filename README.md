@@ -39,6 +39,5 @@ Enhancing the user interface using more advanced CSS libraries like Bootstrap or
 Contribution Guidelines
 Feel free to fork the repository, submit issues, and send pull requests. Contributions are highly appreciated, and suggestions for improvements are always welcome!
 
-License
-This project is open-source and available under the MIT License.
+
 
