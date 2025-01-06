@@ -29,12 +29,8 @@ ShoeON is an e-commerce platform designed to showcase and sell sports and casual
 1. Clone this repository:
    ```bash
    git clone https://github.com/AkashShinde-10/shoeON-ecommerce-website.git
-cd shoeON-ecommerce-website
+2.  cd shoeON-ecommerce-website
 
-Certainly! Here's the README.md for your project written in my language, based on the details you've provided:
-
-markdown
-Copy code
 # ShoeON - E-commerce Website
 
 ShoeON is an e-commerce platform designed to showcase and sell sports and casual shoes. Developed using HTML, CSS, and JavaScript, this frontend project enables users to explore different products, view detailed descriptions, and manage their shopping cart. It offers a user-friendly interface with interactive features, although the checkout button is yet to be operational.
